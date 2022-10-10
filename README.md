@@ -38,3 +38,17 @@ To train RSA on ImageNet-1K
 ```
 python train_multi.py --dataset ImageNet --lr 0.6 --wd 1e-6 --batch-size 2048 --warmup-epochs 10 --data_root data/ImageNet/
 ```
+
+
+## Cite RSA
+If you find the code useful in your research, please consider citing our paper:
+
+<pre>
+@inproceedings{
+    bai2022rsa,
+    title={RSA: Reducing Semantic Shift from Aggressive Augmentations for Self-supervised Learning},
+    author={Yingbin Bai and Erkun Yang and Zhaoqing Wang and Yuxuan Du and Bo Han and Cheng Deng and Dadong Wang and Tongliang Liu},
+    booktitle={NeurIPS},
+    year={2022},
+}
+</pre>
