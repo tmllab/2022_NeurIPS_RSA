@@ -66,11 +66,12 @@ If you find the code useful in your research, please consider citing our paper:
 
 
 <pre>
-@inproceedings{
-    bai2022rsa,
-    title={RSA: Reducing Semantic Shift from Aggressive Augmentations for Self-supervised Learning},
-    author={Yingbin Bai and Erkun Yang and Zhaoqing Wang and Yuxuan Du and Bo Han and Cheng Deng and Dadong Wang and Tongliang Liu},
-    booktitle={NeurIPS},
-    year={2022},
+@inproceedings{bai2022rsa,
+ author = {Bai, Yingbin and Yang, Erkun and Wang, Zhaoqing and Du, Yuxuan and Han, Bo and Deng, Cheng and Wang, Dadong and Liu, Tongliang},
+ booktitle = {NeurIPS},
+ title = {RSA: Reducing Semantic Shift from Aggressive Augmentations for Self-supervised Learning},
+ volume = {35},
+ pages = {21128--21141},
+ year = {2022}
 }
 </pre>
